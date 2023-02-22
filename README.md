@@ -1,2 +1,2 @@
 # Signup-Page
-A basic Signup-Page using HTML and CSS
+A Signup-Page using HTML and CSS
