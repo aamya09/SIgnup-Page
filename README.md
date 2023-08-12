@@ -1,3 +1,2 @@
 # Signup-Page
-A Signup-Page using HTML and CSS 
-Glassmorphic Effect
+A Signup-Page using HTML and CSS with Glassmorphic Effect.
